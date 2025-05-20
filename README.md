@@ -2,7 +2,7 @@
 
 🎯 Aspiring Software Developer & Web Developer  
 📍 Kiambu, Kenya  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) <!-- Replace with your actual LinkedIn URL -->
+🔗 [LinkedIn](https://beth-cv-website.vercel.app/) <!-- Replace with your actual LinkedIn URL -->
 
 ---
 
