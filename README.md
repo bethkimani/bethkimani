@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Beth Kimani (Waceke)
 
-🎯 Aspiring Software Developer & Web Developer  
+🎯 Full stack Developer & Web Developer Enthusiastic
 📍 Kiambu, Kenya  
-🔗 [LinkedIn](https://beth-cv-website.vercel.app/) <!-- Replace with your actual LinkedIn URL -->
+🔗 [LinkedIn](https://www.linkedin.com/in/beth-kimani/) <!-- Replace with your actual LinkedIn URL -->
 
 ---
 
@@ -44,4 +44,4 @@
 Feel free to reach out for collaboration or just to say hi!
 
 📧 Email: kbwaceke@gmail.com  
-🌐 Portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com) <!-- Replace with your actual portfolio URL -->
+🌐 Portfolio: [https://beth-cv-website.vercel.app/[]()](https://beth-cv-website.vercel.app/) <!-- Replace with your actual portfolio URL -->
