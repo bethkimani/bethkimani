@@ -18,9 +18,12 @@ I’m a Full Stack Engineer with over 2 years of experience in web development, 
 ### 📈 GitHub Stats
 Explore my coding journey:  
 - **Overall Stats**:  
-  ![Waceke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Waceke&show_icons=true&theme=onedark&hide_title=true)  
+  ![Waceke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Waceke&show_icons=true&theme=onedark&hide_title=true&custom_title=Waceke's%20Coding%20Journey)  
 - **Top Languages**:  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Waceke&layout=compact&theme=onedark)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Waceke&layout=compact&theme=onedark)  
+- **Commit Milestones**:  
+  - 🎯 **2024**: Achieved over 1,200 commits, showcasing a productive year of coding!  
+  - 🎯 **2025**: On track for over 800 commits, reflecting my ongoing dedication (as of 04:46 PM EAT, June 23, 2025).
 
 ### 🔥 Contribution Streak
 Track my coding consistency:  
@@ -174,4 +177,4 @@ I’m excited to collaborate, share knowledge, or chat about tech! Reach out to 
 
 ### 🎯 Contributing
 Feel free to fork this repository, suggest improvements, or collaborate on projects. Let’s grow together!  
-*Last updated: 04:43 PM EAT, Monday, June 23, 2025*
+*Last updated: 04:46 PM EAT, Monday, June 23, 2025*
