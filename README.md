@@ -23,7 +23,7 @@ Explore my coding journey:
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Waceke&layout=compact&theme=onedark)  
 - **Commit Milestones**:  
   - 🎯 **2024**: Achieved over 1,200 commits, showcasing a productive year of coding!  
-  - 🎯 **2025**: On track for over 800 commits, reflecting my ongoing dedication (as of 04:46 PM EAT, June 23, 2025).
+  - 🎯 **2025**: On track for over 800 commits, reflecting my ongoing dedication .
 
 ### 🔥 Contribution Streak
 Track my coding consistency:  
